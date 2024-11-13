@@ -1,8 +1,7 @@
 # Human Activity Recognition
 ### Description :
 This project is made with a perspective of Recognising Human Activities. The human activity recognition model was trained on Kinetics 400 Dataset.
-To learn more about this dataset and model used refer Kay et al.’s 2017 paper, [The Kinetics Human Action Video Dataset.](https://arxiv.org/abs/1705.06950) and Hara et al.’s 2018 CVPR paper, [Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?](https://arxiv.org/abs/1711.09577)
-The authors [Kensho Hara, Hirokatsu Kataoka, Yutaka Satoh](https://arxiv.org/abs/1711.09577) have mentioned in their 2018 CVPR paper, how existing state-of-the-art 2D architectures (such as ResNet, ResNeXt, DenseNet, etc.) can be extended to video classification via 3D kernels.
+To learn more about this dataset and model used refer Kay et al.’s 2017 paper, [The Kinetics Human Action Video Dataset.](https://arxiv.org/abs/1705.06950) and Hara et al.’s 2018 CVPR paper, [Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?].
 
 ### Prerequisites :
   ###### Required 
@@ -42,8 +41,7 @@ python recognise_human_activity.py
 ![-](https://github.com/techycs18/human-activity-recognition/blob/master/screenshots/high_kick.png)
 ##### Push Ups -
 ![-](https://github.com/techycs18/human-activity-recognition/blob/master/screenshots/pushups.png)
-#### Author 
-- [Chaitanya Sonavane](https://www.linkedin.com/in/chaitanya-sonavane-3766521a0/) [July 2020] 
+
 
 #### Acknowledments :
 - Kay et al.’s 2017 paper, [The Kinetics Human Action Video Dataset.](https://arxiv.org/abs/1705.06950)
